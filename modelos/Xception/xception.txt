@@ -1,1 +1,0 @@
-En este directorio se encuentran los cuadernos de Google Colab con la información del entrenamiento del modelo Xception.
