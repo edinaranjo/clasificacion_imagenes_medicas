@@ -1,1 +1,0 @@
-En este directorio se encuentran los cuadernos de Google Colab con en entrenamiento de los modelos seleccionados.
