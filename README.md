@@ -1,5 +1,11 @@
 # Clasificación de tumores de cerebro utilizando aprendizaje por transferencia
 
+Integrantes:
+
+* Edison Naranjo
+* Berenice Arguero
+* Marcela Mosquera
+
 En este repositorio constan los resultados de la detección de tumores de cerebro empleando los modelos pre-entrenados VGG19, ResNet50 y Xception.
 
 El conjunto de datos utilizado se encuentra en el siguiente enlace: [Tumor Brain](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
